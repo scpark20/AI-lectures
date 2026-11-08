@@ -34,3 +34,14 @@ The notebooks contain their own imports and, where needed, package-installation 
 ## Sources
 
 Several lessons adapt TensorFlow tutorials. Their original author credits, source links, and license notices are preserved in the notebooks. The VAE preview is an existing output from the lesson based on the TensorFlow convolutional VAE tutorial.
+
+<details>
+<summary>Full project notes</summary>
+
+<!-- preserved-project-notes:start -->
+# AI-lectures
+AI lectures for developers
+
+<!-- preserved-project-notes:end -->
+
+</details>
